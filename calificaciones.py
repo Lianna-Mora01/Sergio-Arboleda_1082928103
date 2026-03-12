@@ -22,7 +22,7 @@ for i in range(5):
     if nota > mayor:
         mayor = nota
         nombre_mayor = nombre
-
+        
     if nota < menor:
         menor = nota
         nombre_menor = nombre
