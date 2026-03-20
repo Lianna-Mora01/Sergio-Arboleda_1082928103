@@ -19,3 +19,6 @@ estudiantes.remove("Juan orozco")
 print(estudiantes) # ['Laura', 'Valerie', 'Juan', 'Shayla', 'Valeri', 'Adriana', 'Marcos', 'Xavi', 'María', 'Shayla']
 estudiantes.remove("Shayla")
 print(estudiantes) # ['Laura', 'Valerie', 'Juan', 'Valeri', 'Adriana', 'Marcos', 'Xavi', 'María', 'Shayla']
+
+estudiantes.append("Edwin")
+print(estudiantes) # ['Laura', 'Valerie', 'Juan', 'Valeri', 'Adriana', 'Marcos', 'Xavi', 'María', 'Shayla', 'Edwin']
